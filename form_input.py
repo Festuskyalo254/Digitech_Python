@@ -1,4 +1,4 @@
-#making a form input validation
+# form input validation
 print("  Sign Up Form  ")
 #the inputs the program is fetching from the user
 username = input("Enter your username: ")

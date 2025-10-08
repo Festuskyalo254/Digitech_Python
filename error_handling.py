@@ -1,3 +1,4 @@
+#optional to be handled later in class
 try:
     result = 10 / 0  
 except ZeroDivisionError:
